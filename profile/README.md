@@ -1,1 +1,1 @@
-[![banner-gray-1600x400](https://user-images.githubusercontent.com/23345879/174475687-8481d794-7ed8-4f1c-9a78-b0d7019c374a.png)](https://freestuffbot.xyz/)
+[![banner-logo-1600x400](https://github.com/FreeStuffBot/.github/assets/23345879/19455221-ac93-44ee-ab63-5a2b819e03c5)](https://freestuffbot.xyz/)
